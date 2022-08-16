@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Troll-Lol0059
+- 👋 Hi, I’m Akash Shaw.
 - 👀 I’m interested in Python and GUI
 - 🌱 I’m currently learning tkinter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : akashshaw0059@gmail.com
+- 📫 How to reach me : EMAIL: akashshaw0059@gmail.com 
+MOBILE : 6289192559
 
 <!---
 Troll-Lol0059/Troll-Lol0059 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
