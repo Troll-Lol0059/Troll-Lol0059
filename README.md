@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Shaw.
-- 👀 I’m interested in Python and GUI
-- 🌱 I’m currently learning tkinter
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full Stack Web DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : EMAIL: akashshaw0059@gmail.com 
 MOBILE : 6289192559
